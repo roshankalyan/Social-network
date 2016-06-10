@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-project1",
+    "description": "Description of project PhpProject1.",
+    "authors": [
+        {
+            "name": "Roshan",
+            "email": "Roshankalyan1992@gmail.com"
+        }
+    ],
+    "require": {
+        "facebook/php-sdk-v4": "dev-master"
+    }
+}
